@@ -1,0 +1,34 @@
+Basic commands:
+    Images commands:
+        1) pull(download images)
+            docker pull ubuntu
+
+        2) remove images
+            docker rmi <ImageID>
+
+        3) Check all images
+            docker images
+
+    Container commands:
+        1) Current running containers
+            docker ps
+
+        2) To create container
+            docker run <ImageName>
+
+        3) docker start <ContainerName>
+           docker run -it <ContainerName>
+
+        4) docker stop <ContainerName>
+
+        5) docker system df
+
+        6) docker system prune -f
+
+
+
+    Create Network
+        1) docker network create  grid
+        2) docker run -d -p 4442-4444:4444 --net grid --name selenium-hub selenium/hub
+        3) docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-chrome:4
+        4) docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-firefox

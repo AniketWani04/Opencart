@@ -1,0 +1,49 @@
+2026-03-15 16:22:38 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:22:38 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:22:38 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.80/win64/chromedriver-win64.zip
+2026-03-15 16:22:38 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.80/win64/chromedriver-win64.zip
+2026-03-15 16:22:40 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2026-03-15 16:22:40 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2026-03-15 16:22:40 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:22:41 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:22:45 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:22:45 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:25:56 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:25:56 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:25:57 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:25:57 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:26:05 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:26:05 [TestNG-test-Test1-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:26:05 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:26:05 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:26:19 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:26:19 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:26:23 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.80 (resolved driver for Chrome 146)
+2026-03-15 16:26:23 [TestNG-test-Test1-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\DELL\.cache\selenium\chromedriver\win64\146.0.7680.80\chromedriver.exe
+2026-03-15 16:31:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 16:36:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 16:40:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:02:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:05:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:07:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:07:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:08:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+
+2026-03-15 17:11:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing\Workspace\javaWorkspace\seleniumTestNG\Selenium-TestNG-Project\testng.xml
+

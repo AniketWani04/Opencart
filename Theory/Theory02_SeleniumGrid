@@ -1,0 +1,14 @@
+Standalone setup:
+    1) Download selenium-server and place it somewhere
+    2) Run below command prompt to start selenium grid - java-jar selenium-server-4.41.0.jar standalone
+    3) URL to see session: http://localhost:4444/
+
+Hub and Node Setup(Multiple machines)
+    1) Download selenium-server and place it somewhere in both( hub and node).
+    2) Run command
+        java-jar selenium-server-4.41.0.jar hub
+
+    3) Run below command to make machine as node
+        java-jar selenium-server-4.41.0.jar node--hub http://<hub-ip>:4444
+
+    4) URL: http://localhost:4444
